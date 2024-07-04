@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    width: 1600px;
+    height: 4256px;
+    background-color: #ffe2ce;
+}
+
+.hero{
+    position: relative;
+    height: 837px;
+    background-color: aquamarine;
+}
+
+.hardy{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.header_bg{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.developer{
+    position: absolute;
+    top: 35px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
