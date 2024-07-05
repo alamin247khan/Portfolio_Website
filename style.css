@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 *{
     padding: 0px;
     margin: 0px;
@@ -14,7 +16,8 @@ body{
 .hero{
     position: relative;
     height: 837px;
-    background-color: aquamarine;
+    width: 1600px;
+    background-color: #FFF8F3;
 }
 
 .hardy{
@@ -32,10 +35,22 @@ body{
 .developer{
     position: absolute;
     top: 35px;
+    left: 25px;
 }
 
 nav{
+    position: relative;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    left: px;
+    top: 30px;
+}
+
+.logo{
+    font: normal 800 45px "Open Sans", sans-serif;
+}
+
+.color_r{
+    color: #FD6E0A;
 }
 
