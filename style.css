@@ -1,56 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 
-*{
-    padding: 0px;
-    margin: 0px;
-    list-style: none;
-    text-decoration: none;
+* {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  text-decoration: none;
 }
 
-body{
-    width: 1600px;
-    height: 4256px;
-    background-color: #ffe2ce;
+body {
+  position: relative;
+  width: 1600px;
+  height: 4256px;
+  background: rgb(255, 255, 255);
 }
-
-.hero{
-    position: relative;
-    height: 837px;
-    width: 1600px;
-    background-color: #FFF8F3;
+.header {
+  width: 1600px;
+  height: 837px;
+  background: rgb(255, 248, 243);
 }
-
-.hardy{
-    position: absolute;
-    bottom: 0px;
-    right: 0px;
-}
-
-.header_bg{
-    position: absolute;
-    bottom: 0px;
-    right: 0px;
-}
-
-.developer{
-    position: absolute;
-    top: 35px;
-    left: 25px;
-}
-
-nav{
-    position: relative;
-    display: flex;
-    justify-content: space-around;
-    left: px;
-    top: 30px;
-}
-
-.logo{
-    font: normal 800 45px "Open Sans", sans-serif;
-}
-
-.color_r{
-    color: #FD6E0A;
-}
-
