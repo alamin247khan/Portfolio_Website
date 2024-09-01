@@ -1,7 +1,0 @@
-Technologies
-
-HTML
-All Major HTML and HTML5 elements. Build a portfolio website. Git and github hosting, etc.
-
-CSS
-All Major CSS And CSS3 Style Rules. Flex, Grid, Media Query, Responsive Websites, Etc.
